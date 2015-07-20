@@ -1,0 +1,23 @@
+{
+  "name": "intro-ajax",
+  "version": "0.0.0",
+  "description": "Intro to ajax by making a website to run simple searches for movies",
+  "main": "index.html",
+  "keywords": [
+    "wdi",
+    "ajax",
+    "movies"
+  ],
+  "authors": [
+    "Carson Long",
+    "assissted by Fer Martin and Harry Chen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
