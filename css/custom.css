@@ -1,0 +1,52 @@
+.main {
+  margin: 10px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+#header {
+  font-size: 40px;
+  text-align: center;
+}
+
+input {
+  width: 60vw;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid lightgrey;
+}
+
+.loading {
+  text-align: center;
+  margin: 0px;
+  vertical-align: top;
+}
+
+h6 {
+  background-color: blue;
+  display: inline-block;
+  margin-left: 5px;
+  height: 10px;
+  width: 10px;
+}
+
+.second {
+  text-align: left;
+  display: none;
+  margin-top: 20px;
+}
+
+img {
+  float: right;
+  width: 300px;
+}
+
+strong {
+  color: blue;
+}
+
+@media(max-width: 700px) {
+  img {
+    width: 150px;
+  }
+}
